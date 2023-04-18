@@ -14,8 +14,8 @@
 		<header>
 			<nav>
 				<div class="nav-container">
-			        <a href="index.html">
-			            <img id="logo" src="assets/img/logo-estacio-removebg-preview.png" alt="Projeto-RH">
+			        <a href="index.php">
+			            <img id="logo" src="assets/img/logo-estacio.png" alt="Projeto-RH">
 			        </a>
 					<i class="fas fa-bars btn-menumobile"></i>
 					<ul>
@@ -59,7 +59,7 @@
 			<div class="wrapper">
 				<div class="footer-box">
 					<div class="company-footer">
-						<img src="img/logo.png">
+						<img src="#">
 						<h2>Projeto-RH</h2>
 						<p>A maneira mais fácil de encontrar seu próximo emprego.</p>
 					</div>

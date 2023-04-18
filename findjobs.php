@@ -14,8 +14,8 @@
 		<header>
 			<nav>
 				<div class="nav-container">
-          <a href="index.html">
-            <img id="logo" src="assets/img/logo-estacio-removebg-preview.png" alt="Proojeto-RH">
+          <a href="index.php">
+            <img id="logo" src="assets/img/logo-estacio.png" alt="Projeto-RH">
           </a>
 					<i class="fas fa-bars btn-menumobile"></i>
 					<ul>
