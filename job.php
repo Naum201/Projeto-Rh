@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>JobFinder</title>
+	<title>Projeto-RH</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="stylesheet" type="text/css" href="css/styles.css" />
+	<link rel="stylesheet" type="text/css" href="css/global.css" />
+	<link rel="stylesheet" href="css/jobs.css">
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800&display=swap" rel="stylesheet">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
 </head>
@@ -13,15 +14,15 @@
 		<header>
 			<nav>
 				<div class="nav-container">
-			        <a href="index.html">
-			            <img id="logo" src="./img/logo-estacio-removebg-preview.png" alt="JobFinder">
+			        <a href="index.php">
+			            <img id="logo" src="assets/img/logo-estacio.png" alt="Projeto-RH">
 			        </a>
 					<i class="fas fa-bars btn-menumobile"></i>
 					<ul>
-						<li><a href="findjobs.html">Encontrar vaga</a></li>
-                        <li><a href="login.html">Login</a></li>
-						<li><a href="sendjobs.html">Enviar vaga</a></li>
-						<li><a href="#">Contato</a></li>
+						<li><a href="findjobs.php">Encontrar vaga</a></li>
+                        <li><a href="login.php">Login</a></li>
+						<li><a href="sendjobs.php">Enviar vaga</a></li>
+						<li><a href="#contact">Contato</a></li>
 					</ul>
 				</div>
 			</nav>
@@ -103,12 +104,12 @@
 		      </div>
 		    </aside>
 		</div>
-		<footer>
+		<footer  id="contact">
 			<div class="wrapper">
 				<div class="footer-box">
 					<div class="company-footer">
-						<img src="img/logo.png">
-						<h2>JobFinder</h2>
+						<img src="assets/img/logo-estacio.png">
+						<h2>Proojeto-RH</h2>
 						<p>A maneira mais fácil de encontrar seu próximo emprego.</p>
 					</div>
 				</div>

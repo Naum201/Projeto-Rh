@@ -13,8 +13,8 @@
 		<header>
 			<nav>
 				<div class="nav-container">
-					<a href="index.html">
-						<img id="logo" src="./img/logo-estacio-removebg-preview.png" alt="Proojeto-RH">
+					<a href="index.php">
+						<img id="logo" src="assets/img/logo-estacio.png" alt="Projeto-RH">
 					</a>
 					<i class="fas fa-bars btn-menumobile"></i>
 					<ul>
@@ -89,22 +89,22 @@
 				<p class="p-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 				<div class="testmony-box">
 					<p class="testmony-msg">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-					<img src="img/avatar1.png">
+					<img src="assets/img/pessoa-1.avif">
 					<p class="testmony-name">João</p>
 				</div>
 				<div class="testmony-box">
 					<p class="testmony-msg">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-					<img src="img/avatar2.png">
+					<img src="assets/img/pessoa-1.avif">
 					<p class="testmony-name">Maria</p>
 				</div>
 				<div class="testmony-box">
 					<p class="testmony-msg">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-					<img src="img/avatar3.png">
+					<img src="assets/img/pessoa-1.avif">
 					<p class="testmony-name">Pedro</p>
 				</div>
 				<div class="testmony-box">
 					<p class="testmony-msg">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-					<img src="img/avatar4.png">
+					<img src="assets/img/pessoa-1.avif">
 					<p class="testmony-name">Alexia</p>
 				</div>
 			</div>
@@ -113,21 +113,21 @@
 			<h2 class="title-center">Últimos artigos do nosso blog</h2>
 			<p class="p-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 			<div class="article-box">
-				<img src="img/blog1.jpg">
+				<img src="assets/img/pagina-blog-1.jpg">
 				<h4><a href="#">Article title</a></h4>
 				<p class="article-date">05 de Fevereiro de 2023 | 10 comentários</p>
 				<p class="article-resume">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 				<a href="#" class="article-btn light-btn">Ler post</a>
 			</div>
 			<div class="article-box">
-				<img src="img/blog2.jpg">
+				<img src="assets/img/pagina-blog-2.avif">
 				<h4><a href="#">Article title</a></h4>
 				<p class="article-date">05 de Fevereiro de 2023 | 10 comentários</p>
 				<p class="article-resume">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 				<a href="#" class="article-btn light-btn">Ler post</a>
 			</div>
 			<div class="article-box">
-				<img src="img/blog3.jpg">
+				<img src="assets/img/pagina-blog.avif">
 				<h4><a href="#">Article title</a></h4>
 				<p class="article-date">05 de Fevereiro de 2023 | 10 comentários</p>
 				<p class="article-resume">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
@@ -138,7 +138,7 @@
 			<div class="wrapper">
 				<div class="footer-box">
 					<div class="company-footer">
-						<img src="img/logo.png">
+						<img class="logo-footer" src="assets/img/logo-estacio.png">
 						<h2>Proojeto-RH</h2>
 						<p>A maneira mais fácil de encontrar seu próximo emprego.</p>
 					</div>

@@ -4,14 +4,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="./css/styles.css" media="screen" />
-    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="./css/global.css" media="screen" />
+    <title>cadastro</title>
 </head>
 <body>
 
     <ul>
         
-        <li><img src="./img/logo-estacio-removebg-preview.png" width="100" height="50"> <a href="#"></a></li>
+        <li><img src="assets/img/logo-estacio.png" width="100" height="50"> <a href="#"></a></li>
         <li><a href="#home">Home</a></li>
         <li><a href="#news">Vagas</a></li>
         <li><a href="#contact">Contact</a></li>
@@ -19,7 +19,7 @@
       </ul>
 
 <div style="display:inline-block;vertical-align:top;">
-        <img src="./img/search_banner_bg-482147803f60ba9a4d62e0fd0cea619d1df542c90e190af209ab602f0f9fd939.png" width="700" height="700" alt="img"/>
+        <img src="assets/img/logo-estacio.png" width="700" height="700" alt="img"/>
 </div>
     <div style="display:inline-block;">
         <p>
