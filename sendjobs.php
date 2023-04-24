@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
 <head>
 	<title>Projeto-RH</title>
 	<meta charset="utf-8">
@@ -7,20 +8,22 @@
 	<link rel="stylesheet" type="text/css" href="css/global.css" />
 	<link rel="stylesheet" href="css/sendjob.css">
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800&display=swap" rel="stylesheet">
-	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
+		integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
 </head>
+
 <body>
 	<div class="container" id="sendjobs">
 		<header>
 			<nav>
 				<div class="nav-container">
-			        <a href="index.php">
-			            <img id="logo" src="assets/img/logo-estacio.png" alt="Projeto-RH">
-			        </a>
+					<a href="index.php">
+						<img id="logo" src="assets/img/logo-estacio.png" alt="Projeto-RH">
+					</a>
 					<i class="fas fa-bars btn-menumobile"></i>
 					<ul>
 						<li><a href="findjobs.php">Encontrar vaga</a></li>
-                        <li><a href="login.php">Login</a></li>
+						<li><a href="login.php">Login</a></li>
 						<li><a href="sendjobs.php">Enviar vaga</a></li>
 						<li><a href="#contact">Contato</a></li>
 					</ul>
@@ -59,7 +62,7 @@
 			<div class="wrapper">
 				<div class="footer-box">
 					<div class="company-footer">
-						<img src="#">
+						<img src="assets/img/logo-estacio.png">
 						<h2>Projeto-RH</h2>
 						<p>A maneira mais fácil de encontrar seu próximo emprego.</p>
 					</div>
@@ -115,9 +118,8 @@
 		</footer>
 	</div>
 </body>
-<script
-  src="https://code.jquery.com/jquery-3.4.1.min.js"
-  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
-  crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"
+	integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
 <script src="js/scripts.js"></script>
+
 </html>
