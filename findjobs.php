@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
 <head>
 	<title>Projeto-RH</title>
 	<meta charset="utf-8">
@@ -7,20 +8,22 @@
 	<link rel="stylesheet" type="text/css" href="css/global.css" />
 	<link rel="stylesheet" href="css/findjobs.css">
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800&display=swap" rel="stylesheet">
-	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
+		integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
 </head>
+
 <body>
 	<div class="container" id="findjobs">
 		<header>
 			<nav>
 				<div class="nav-container">
-          <a href="index.php">
-            <img id="logo" src="assets/img/logo-estacio.png" alt="Projeto-RH">
-          </a>
+					<a href="index.php">
+						<img id="logo" src="assets/img/logo-estacio.png" alt="Projeto-RH">
+					</a>
 					<i class="fas fa-bars btn-menumobile"></i>
 					<ul>
 						<li><a href="findjobs.php">Encontrar vaga</a></li>
-                        <li><a href="login.php">Login</a></li>
+						<li><a href="login.php">Login</a></li>
 						<li><a href="sendjobs.php">Enviar vaga</a></li>
 						<li><a href="#contact">Contato</a></li>
 					</ul>
@@ -32,15 +35,15 @@
 			<div id="job-filter">
 				<div id="search-form">
 					<form>
-							<input type="text" name="job" placeholder="Digite o cargo">
-							<select name="region">
-								<option value="">Todos os estados</option>
-							</select>
-							<select name="category">
-								<option value="">Categoria</option>
-							</select>
-							<input type="submit" value="Pesquisar">
-						</form>
+						<input type="text" name="job" placeholder="Digite o cargo">
+						<select name="region">
+							<option value="">Todos os estados</option>
+						</select>
+						<select name="category">
+							<option value="">Categoria</option>
+						</select>
+						<input type="submit" value="Pesquisar">
+					</form>
 				</div>
 				<div id="type-filter">
 					<ul>
@@ -56,12 +59,12 @@
 						<li>
 							<input type="checkbox" checked><label>Free Lancer</label>
 						</li>
-					</ul>	
+					</ul>
 				</div>
 			</div>
 			<ul>
 				<li>
-					
+
 				</li>
 			</ul>
 			<div class="btnjobs-container">
@@ -127,9 +130,8 @@
 		</footer>
 	</div>
 </body>
-<script
-  src="https://code.jquery.com/jquery-3.4.1.min.js"
-  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
-  crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"
+	integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
 <script src="js/scripts.js"></script>
+
 </html>
